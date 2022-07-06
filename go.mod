@@ -1,3 +1,3 @@
-module github.com/agamp94/go-say-hello.git
+module github.com/agamp94/go-say-hello
 
 go 1.18
